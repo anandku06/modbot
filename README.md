@@ -15,7 +15,7 @@ DarogaJi is a powerful and customizable Discord moderator bot built with Python 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/darogaji.git
+   git clone https://github.com/anandku06/darogaji.git
    cd darogaji
    ```
 
